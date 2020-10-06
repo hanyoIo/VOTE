@@ -1,5 +1,7 @@
 # VOTE - You Decide
-An app authorizing people to make their own decisions. 
+An app authorizing people to make their own decisions.
+
+
 
 ## History
 2020/10/6 :
